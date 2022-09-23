@@ -1,3 +1,7 @@
 line 1 to check git staging diff
 
 line 1 to check git staging diff another commit
+
+line 2
+
+line 3
