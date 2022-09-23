@@ -3,3 +3,4 @@ line 1 to check git staging diff
 one more like to file2 
 
 line three in file2
+line four in file2
